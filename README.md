@@ -34,6 +34,7 @@ Stop paying for expensive photo shoots. These AI tools let you create profession
 - [Pebblely](https://pebblely.com/) - AI product photo generator — upload a product image and generate beautiful lifestyle backgrounds instantly.
 - [CreatorKit](https://creatorkit.com/) - AI product photo and video generator built for Shopify. Generate backgrounds and lifestyle images at scale.
 - [Booth.ai](https://www.booth.ai/) - Professional product photography using AI. Upload your product, get studio-quality images in multiple styles.
+- [Photoshoot.app](https://photoshoot.app/?utm_source=github_com&utm_medium=backlink&utm_campaign=202609_w7_backlinks) - AI commercial photography studio: upload one product photo and get studio-grade listing shots, model/OOTD photos, and campaign imagery in minutes. Freemium with 30 free credits.
 
 ## Ad Creative
 
